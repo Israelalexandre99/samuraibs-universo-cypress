@@ -1,5 +1,12 @@
 {
     "baseUrl": "http://localhost:3000",
     "viewportWidth": 1440,
-    "viewportHeight": 900
+    "viewportHeight": 900,
+    "dbConfig": {
+        "host": "queenie.db.elephantsql.com",
+        "user": "nxakxeeo",
+        "password": "jnd3K5ewAr82i2FlJUsYFfsN9RdSb9KB",
+        "database": "nxakxeeo",
+        "port": 5432
+    }
 }
